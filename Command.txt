@@ -1,5 +1,0 @@
-git init to initilize repo
-git add MyFile.txt
-git add info/* 
-
-git commit - adding initial MyFile.txt and adding the info files
